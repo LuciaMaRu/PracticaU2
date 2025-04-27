@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Cj7",
+        "duracion": 140,
+        "genero": "Infantil",
+        "clasificacion": "A",
+        "imagen": "C://Users//marul//OneDrive//Documentos//Programación Avanzada//MV5BMTUxNTQxNTY5OF5BMl5BanBnXkFtZTcwNjEyNjg1MQ@@._V1_.jpg",
+        "precio": 75.0,
+        "horarios": {
+            "Lunes": [
+                "9:00"
+            ],
+            "Sábado": [
+                "8:00",
+                "10:00",
+                "22:00"
+            ]
+        }
+    }
+]
